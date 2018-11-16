@@ -1,0 +1,76 @@
+/* footer must be at the bottom of the page */
+/* the space between de grids  must be evenly divided */
+h1 {
+	color:#FFFFFF;
+	font-family: Berlin Sans FB, Times New Roman;
+	font-size:56pt;
+	text-align:center;
+	background-image:url(companylogoBGdt.jpg);
+	background-repeat: no-repeat;
+	margin:auto;
+border-width: 0,5%;	
+	width: 51%; 
+	height: 20%;
+	}
+h2 {
+	color:#FFFFFF;
+	font-family:Arial;
+	font-size:35pt;
+	text-align:center;
+	background-color:#2699FB;
+	padding:0;
+	border-width:0,5px;
+	margin:auto;
+	width: 51%;
+	height:7,5%;
+	}
+.nav-bar {
+	text-align:center;
+	background-color:#AAAAAA;
+	padding:0;
+	border-width:0,5;
+	border-style: solid;
+	border-color:#FFFFFF;
+	margin:auto;
+	width: 51%;
+	height:3,5%;
+	}
+.nav-bar a{ 
+color:#FFFFFF;
+font-family:Arial, Times New Roman, serif;
+font-size:15pt;
+ text-align:center; 
+ margin:20px;
+ width: 50%;
+ }
+section {
+	position:absolute;
+	left:25%;
+	width: 50%;
+	height: 67%;
+	}
+img {
+	margin:auto;
+	padding:0;
+	border:0;
+	width: 90%;
+	height: 85%;
+	}
+footer {
+	position: fixed; bottom:0%; left: 25%;
+	color:#FFFFFF;
+	text-align:center;
+	background-color:#000000;
+	margin:auto; 
+	width:51%;
+	}
+a: link { color:#FFFFFF; text-decoration:none; }
+a: hover {background-color:#2699FB; color:FFFFFF; text-decoration:none; font-weight:bold;}
+.container { 
+	background-color:#FFFFFF;
+	border: solid 1px #000000; 
+	display: grid;
+	grid-template-columns: auto auto auto;
+	justify-content: center;
+	}
+#MyVideo {position: fixed; right: 0; bottom: 0; z-index: -1000; max-height:100%; max-width:100%;}

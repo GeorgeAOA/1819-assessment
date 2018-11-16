@@ -1,0 +1,10 @@
+/* Here you will give insert the properties for different devices. */
+@media screen and (min-width: 961px)
+{
+	#container { width:100%; } 
+	
+}
+
+@media screen and (min-width: 360 px) and (max-width: 960px)
+
+@media screen and (max-width: 359px)

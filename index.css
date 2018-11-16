@@ -1,0 +1,118 @@
+a:link {
+	color:#FFFFFF;
+	text-decoration:none;
+	}
+	a:hover {
+		background-color:#2699FB;
+		color:FFFFFF;
+		text-decoration:none;
+		font-weight:bold;
+		}
+img {
+	position:relative;left: 25%;
+	margin:auto;
+	padding:0;
+	border:0;
+	width: 50%;
+	height: 30%;
+	} 
+h1 {
+	background-image:url(companylogoBGdt.jpg);
+	margin:auto;
+	width: 50%;
+	height: 25%;
+	text-align: center;
+	}
+h2 {
+	color:#FFFFFF;
+	font-family:Arial, Times New Roman, serif;
+	font-size:35pt;
+	text-align:center;
+	background-color:#2699FB;
+	padding:0;
+	border:auto;
+	margin:auto;
+	width: 50%;
+	height:15%;
+	}
+h3 {
+	color:#FFFFFF;
+	font-family:Arial, Times New Roman, serif;
+	font-size:35pt;
+	text-align:center;
+	background-color:#2699FB;
+	padding:0;
+	border:auto;
+	margin:auto;
+	width: 50%;
+	height:15%;
+	}
+h4 {color:#FFFFFF;font-family:Arial, Times New Roman, serif;
+font-size:35pt;
+text-align:center;
+background-color:#2699FB;
+padding:0;
+border:auto;
+margin:auto;
+width: 50%; 
+height:15%;
+}
+h5 {
+	color:#FFFFFF;
+	font-family:Arial, Times New Roman, serif;
+	font-size:35pt;
+	text-align:center;
+	background-color:#2699FB;
+	padding:0;
+	border:auto;
+	margin:auto;
+	width: 50%;
+	height:15%;
+	}
+	p { padding-bottom:2;
+	border:auto;
+	margin:auto;
+	}	
+.header a{
+	color:#FFFFFF;
+	font-family: Berlin Sans FB, Times New Roman, serif; 
+	font-size:56pt;
+	text-decoration:none ;
+	position:relative: 50%;
+	}
+.nav-bar { text-align:center;
+ background-color:#AAAAAA;
+ padding:0;
+ border-width:0,5;
+ border-style: solid;
+ border-color:#FFFFFF;
+ margin:auto;
+ width: 50%;
+ height:3,5%;
+ }
+.nav-bar a{
+	color:#FFFFFF;
+	font-family:Arial, Times New Roman, serif;
+	font-size:15pt;
+	text-align:center;
+	margin:20px;
+	width: 50%;
+	}
+footer {font-family:Arial, Times New Roman, serif;
+position:relative;
+color:#FFFFFF;
+text-align:center;
+background-color:#000000;
+margin:auto;
+ width:50%;
+ }
+#MyVideo {
+	position: fixed;
+ right: 0;
+ bottom: 0;
+ z-index: -1000;
+ max-height:100%;
+ max-width:100%;
+ }
+/* #MyVideo { position: fixed; right:0; bottom:0; min-width:100%; min-height:100%;} */
+/* body {background-image:url(background.jpeg);background-repeat: no-repeat; } */
